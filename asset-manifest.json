@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/itb1825/tyrcae-weather-react/static/css/main.565d80c2.css",
-    "main.js": "/itb1825/tyrcae-weather-react/static/js/main.0887dac0.js",
+    "main.js": "/itb1825/tyrcae-weather-react/static/js/main.97494102.js",
     "static/js/787.d3aeca8a.chunk.js": "/itb1825/tyrcae-weather-react/static/js/787.d3aeca8a.chunk.js",
     "index.html": "/itb1825/tyrcae-weather-react/index.html",
     "main.565d80c2.css.map": "/itb1825/tyrcae-weather-react/static/css/main.565d80c2.css.map",
-    "main.0887dac0.js.map": "/itb1825/tyrcae-weather-react/static/js/main.0887dac0.js.map",
+    "main.97494102.js.map": "/itb1825/tyrcae-weather-react/static/js/main.97494102.js.map",
     "787.d3aeca8a.chunk.js.map": "/itb1825/tyrcae-weather-react/static/js/787.d3aeca8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.565d80c2.css",
-    "static/js/main.0887dac0.js"
+    "static/js/main.97494102.js"
   ]
 }
